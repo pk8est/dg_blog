@@ -1,4 +1,4 @@
 dg_blog
 =======
 
-django 开发的个人blog 
+django : pk8est/blog 
